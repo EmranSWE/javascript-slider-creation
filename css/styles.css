@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    font-size:40px;
+}
+.image{
+    margin: 5% 25%;
+}
+.image img{
+    width: 800px;
+    height: 500px;
+}
